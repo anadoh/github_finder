@@ -1,6 +1,6 @@
 import React from "react";
-import PropTypes from 'prop-types';
-import { prototype } from "stack-utils";
+import PropTypes from 'prop-types'
+
 
 const UserItem = ({user: {login, avatar_url, html_url}}) => { 
 
