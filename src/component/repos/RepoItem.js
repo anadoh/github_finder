@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Repos from './Repos';
+// import Repos from './Repos';
 
 
 export const RepoItem = ({ repo }) => {
